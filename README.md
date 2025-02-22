@@ -1,4 +1,4 @@
 # hello-world
 Following the github tutorial
 
-Learning stuff.
+Going back to the tutorial after leaving alone for a few years.
